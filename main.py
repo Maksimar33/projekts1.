@@ -13,3 +13,6 @@ class Skolens:
         self.vards = vards
         self.klase = klase
         self.videja_atzime = videja_atzime
+
+
+11111
